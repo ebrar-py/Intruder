@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flora Nocturna</string>
+    <string name="subtitle_manor">Ancient Floral 3D Stealth &amp; Survival</string>
+    <string name="tab_play">Manor (3D)</string>
+    <string name="tab_objects">Object Codex</string>
+    <string name="tab_strategy">Tactics &amp; Lore</string>
+    <string name="mode_careful">Careful (Quiet)</string>
+    <string name="mode_rushed">Rushed (Loud)</string>
+    <string name="action_light_switch">Toggle Room Light</string>
+    <string name="action_hide">Hide / Emerge</string>
+</resources>

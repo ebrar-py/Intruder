@@ -1,0 +1,6 @@
+{
+  "name": "Flora Nocturna",
+  "description": "A stylized 3D top-down survival mystery set in an ancient floral manor where lighting, silence, physiological needs, and hidden intuition determine your survival against a stalking intruder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
